@@ -11,11 +11,11 @@
 "Java Developer: от Hello World до собственного клиент-серверного приложения".
 В настоящее время я нахожусь в поисках работы, параллельно продолжая закреплять полученные навыки и изучать новую информацию по программированию.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 :mailbox: Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lasjava) <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alex_java@gmail.com)-->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
